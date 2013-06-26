@@ -1,6 +1,7 @@
-Hello World
-Basex web scraping template
+**Hello World**
+*Basex web scraping template*
 
-1) run Start.bat
-2) check if http://127.0.0.1:8080/json.xq works
-3) report errors if any
+- run Start.bat
+- check if [localhost:8080/json.xq](http://localhost:8080/json.xq) works
+- report errors if any
+- goto [localhost:8080/service/scrape](http://localhost:8080/service/scrape?url=http://www.amazon.com/dp/1449392687/) (change url as needed)
